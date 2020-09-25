@@ -3,9 +3,11 @@ RENCANA_KONTEN
 -javascript
  *es6
  *framewok javascript
-  ^angular
+  ^veu
   ^react
 -interview
+-php framewoks
+  ^laravel
 -backand
 
 
