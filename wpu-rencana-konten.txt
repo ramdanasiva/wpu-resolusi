@@ -4,6 +4,7 @@ RENCANA_KONTEN
  *es6
  *framewok javascript
   ^veu
+  ^react
 -interview
 -php framewoks
   ^laravel
