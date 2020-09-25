@@ -1,9 +1,12 @@
 RENCANA_KONTEN
 
 -javascript
+ *es6
+ *framewok javascript
 -interview
 -php framewoks
 -backand
+
 
 
 
